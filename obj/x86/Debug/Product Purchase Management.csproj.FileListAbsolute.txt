@@ -1,0 +1,144 @@
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csprojAssemblyReference.cache
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.g.i.cs
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.g.cs
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.g.i.cs
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.g.cs
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.xaml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.xaml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.xbf
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.xbf
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\App.xbf
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\MainPage.xbf
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.xr.xml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.exe
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.pdb
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\resources.pri
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\AppxManifest.xml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Core\AppxManifest.xml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Core\Product Purchase Management.exe
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.build.appxrecipe
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\System.Runtime.dll
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\XamlSaveStateFile.xml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csproj.CoreCompileInputs.cache
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csproj.CopyComplete
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.exe
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.pdb
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\ResourceHandlingTask.state
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\priconfig.xml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\priconfig.xml.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\unfiltered.layout.resfiles
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\filtered.layout.resfiles
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\excluded.layout.resfiles
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\resources.resfiles
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\resources.resfiles.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\pri.resfiles
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\pri.resfiles.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\qualifiers.txt
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\qualifiers.txt.intermediate
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\ProjectArchitectures.txt
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\AppStyles.xbf
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\AppStyles.xaml
+D:\IDB\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\AppStyles.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\App.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\AppStyles.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\MainPage.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.xr.xml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.exe
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.pdb
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\resources.pri
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\AppxManifest.xml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Core\AppxManifest.xml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Core\Product Purchase Management.exe
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Product Purchase Management.build.appxrecipe
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\System.Runtime.dll
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csprojAssemblyReference.cache
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.g.i.cs
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.g.cs
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.g.i.cs
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.g.cs
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.xaml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\AppStyles.xaml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.xaml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\App.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\AppStyles.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MainPage.xbf
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\XamlSaveStateFile.xml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csproj.CoreCompileInputs.cache
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csproj.CopyComplete
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.exe
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\Product Purchase Management.pdb
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\ResourceHandlingTask.state
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\priconfig.xml
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\priconfig.xml.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\unfiltered.layout.resfiles
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\filtered.layout.resfiles
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\excluded.layout.resfiles
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\resources.resfiles
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\resources.resfiles.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\pri.resfiles
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\pri.resfiles.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\qualifiers.txt
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\qualifiers.txt.intermediate
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\ProjectArchitectures.txt
+D:\IDB-IT\Online Class\Product Purchase Management\Product Purchase Management\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\App.xbf
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\AppStyles.xbf
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\MainPage.xbf
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Product Purchase Management.xr.xml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Product Purchase Management.exe
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Product Purchase Management.pdb
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\resources.pri
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\AppxManifest.xml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Core\AppxManifest.xml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Core\Product Purchase Management.exe
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Product Purchase Management.build.appxrecipe
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\System.Runtime.dll
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csprojAssemblyReference.cache
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\App.g.i.cs
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\App.g.cs
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\MainPage.g.i.cs
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\MainPage.g.cs
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\App.xaml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\AppStyles.xaml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\MainPage.xaml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\App.xbf
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\AppStyles.xbf
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\MainPage.xbf
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\XamlSaveStateFile.xml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csproj.CoreCompileInputs.cache
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\Product Purchase Management.csproj.CopyComplete
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\Product Purchase Management.exe
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\Product Purchase Management.pdb
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\ResourceHandlingTask.state
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\priconfig.xml
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\priconfig.xml.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\unfiltered.layout.resfiles
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\filtered.layout.resfiles
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\excluded.layout.resfiles
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\resources.resfiles
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\resources.resfiles.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\pri.resfiles
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\pri.resfiles.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\qualifiers.txt
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\qualifiers.txt.intermediate
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\ProjectArchitectures.txt
+D:\IDB-IT\Online Class\1262637-Shakil\Product Purchase Management\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
